@@ -1,0 +1,10 @@
+Here are the required libraries and/or technologies for this project:
+
+langchain
+sentence-transformers
+faiss-cpu
+bs4
+requests
+replicate
+langchain_community
+langchain-huggingface
